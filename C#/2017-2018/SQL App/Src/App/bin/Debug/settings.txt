@@ -1,0 +1,4 @@
+IP=127.0.0.1
+USER_NAME=postgres
+PASSWORD=78451236
+DATABASE=postgres

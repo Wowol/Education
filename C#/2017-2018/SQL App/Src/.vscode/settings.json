@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "csharp": "echo '# calling mono\n' && cd $dir && csc /nologo $fileName && mono $dir$fileNameWithoutExt.exe",
+        // "csharp": "echo '# calling dotnet run\n' && dotnet run"
+    }
+}

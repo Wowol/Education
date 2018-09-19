@@ -1,0 +1,2 @@
+--ZAD17
+ALTER TABLE pracownicy DROP COLUMN imie;

@@ -1,0 +1,1 @@
+DROP SCHEMA ksiegarnia_internetowa CASCADE;
